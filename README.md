@@ -1,1 +1,1 @@
-# BayerPatternInterpolation
+# Bayer Pattern Interpolation
